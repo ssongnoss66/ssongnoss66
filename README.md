@@ -4,4 +4,4 @@
 - INFJ
 - 롯데자이언츠팬
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssongnoss66)](https://solved.ac/ssongnoss66/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssong66)](https://solved.ac/ssong66/)
