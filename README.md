@@ -4,4 +4,4 @@
 - INFJ
 - 롯데자이언츠팬
 
-![ssongnoss66's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssongnoss66&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssongnoss66)](https://solved.ac/ssongnoss66/)
